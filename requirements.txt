@@ -1,4 +1,4 @@
-imbalanced_learn==0.13.0
+imbalanced-learn==0.13.0
 matplotlib==3.7.5
 numpy==1.24.3
 pandas==2.2.3
