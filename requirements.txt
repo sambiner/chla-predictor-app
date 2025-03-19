@@ -1,3 +1,8 @@
+imbalanced_learn==0.13.0
+matplotlib==3.7.5
+numpy==1.24.3
 pandas==2.2.3
-streamlit==1.41.1
 scikit_learn==1.4.2
+seaborn==0.13.2
+streamlit==1.41.1
+xgboost==3.0.0
